@@ -1,3 +1,26 @@
+## tf_transformations (jazzy) - 1.1.0-1
+
+The packages in the `tf_transformations` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r jazzy tf_transformations --override-release-repository-push-url git@github.com:revyos-ros/tf_transformations_release.git` on `Sat, 28 Sep 2024 07:56:13 -0000`
+
+The `tf_transformations` package was released.
+
+Version of package(s) in repository `tf_transformations`:
+
+- upstream repository: https://github.com/DLu/tf_transformations.git
+- release repository: https://github.com/revyos-ros/tf_transformations_release.git
+- rosdistro version: `1.1.0-1`
+- old version: `1.0.1-5`
+- new version: `1.1.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## tf_transformations (humble) - 1.1.0-1
 
 The packages in the `tf_transformations` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r humble tf_transformations --override-release-repository-push-url git@github.com:revyos-ros/tf_transformations_release.git` on `Mon, 23 Sep 2024 15:21:44 -0000`
